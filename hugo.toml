@@ -26,7 +26,7 @@ disablePathToLower = true
   page = ":contentbasename"
 
 [security]
-  allowContent = ['! ^text/html$']
+  allowContent = ['.*', 'text/html']
   enableInlineShortcodes = false
   [security.exec]
     allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
