@@ -134,6 +134,11 @@ You can read the writeup [here](https://penguins184.xyz/blog/springbreak-jailbre
             <div class="stepContent">
                 <p>SpringBreak should load, give it time and text should appear.</p>
                 <img src="./jailbreak.png">
+            </div>
+        </div>
+        <div class="step">
+            <h2>Success!</h2>
+            <div class="stepContent">
                 <p>After a few seconds you should see this screen, indicating that the jailbreak is successful.</p>
                 <img src="./jailbreak2.png">
             </div>
